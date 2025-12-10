@@ -1,0 +1,34 @@
+body {
+    background-color: #eff9fa; /* Cor da pagina*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+main h1 {
+    background-color: none;
+    text-align: center;
+    font-size: 16px
+}
+
+main h2 {
+    background-color: none;
+    text-align: center;
+    font-size: 16px;
+    
+}   
+
+form {
+    text-decoration: none;
+    color: #790b0b;
+    background-color: white;
+    padding: 10px 120px;
+    
+
+}
+button {
+    background-color: #4cf0b9;
+    padding: 10px;
+    color: #4b21e2;
+    text-align: center;
+    font-size: 16px
+}
