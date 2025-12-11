@@ -4,14 +4,21 @@ body {
     margin: 0;
 }
 
+.minha-imagem {
+    position: relative; 
+    left: 1000px;         
+    top: 400px;         
+  }
+
 main h1 {
     background-color: none;
     text-align: center;
-    font-size: 16px
+    font-size: 70px
 }
 
 main h2 {
     background-color: none;
+    font-weight: bold;
     text-align: center;
     font-size: 16px;
     
@@ -19,9 +26,11 @@ main h2 {
 
 form {
     text-decoration: none;
+    font-weight: bold;
     color: #790b0b;
-    background-color: white;
-    padding: 10px 120px;
+    background-color:none;
+    padding: 10px 200px;
+    
     
 
 }
