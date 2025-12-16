@@ -35,3 +35,15 @@ button {
     text-align: center;
     font-size: 16px
 }
+
+.pai {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.filho {
+
+}
